@@ -1,1 +1,0 @@
-autoreconf --install --force -v && aclocal && autoconf && automake --add-missing
